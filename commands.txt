@@ -1,0 +1,7 @@
+git config user.name "Abdulrahman-Al-Nahdi"
+git config user.email "email_of_Abdulrahman-Al-Nahdi@example.com"
+
+git credential-manager erase
+
+protocol=https
+host=github.com
